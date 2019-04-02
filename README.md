@@ -8,7 +8,7 @@
 ### 멘토
 안현순 : 오스템 임플란트
 ### 멘티
-성민석 : 홍익대학교 컴퓨터공학과 4학년 
+성민석 : 홍익대학교 컴퓨터공학과 4학년  
 이근주 : 홍익대학교 컴퓨터공학과 4학년  
 한인수 : 홍익대학교 컴퓨터공학과 4학년  
 
@@ -85,4 +85,4 @@ Hey! Find Mike's Email in Address Book
 
 ---
 
-Copyright (c) 2019, Team NL2SQL
+#### Copyright (c) 2019, Team NL2SQL
