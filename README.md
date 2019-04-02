@@ -66,7 +66,7 @@ Hey! Find Mike's Email in Address Book
 #### SQL
 `SELECT` **email**  
 `FROM` **addressbook**  
-`WHERE` name == '**Mike**';
+`WHERE` name = '**Mike**';
 
 ---
 
