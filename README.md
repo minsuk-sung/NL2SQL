@@ -52,6 +52,7 @@ Deep Learning Framework ( Tensorflow, Keras )
 Cognative Service  
 Cloud Server : Microsoft Azure  
 Automata  
+NL parsing
 
 ---
 
